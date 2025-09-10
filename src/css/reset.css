@@ -32,3 +32,14 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+button {
+  background-color: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+}
