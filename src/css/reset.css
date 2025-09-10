@@ -1,3 +1,7 @@
+html {
+  box-sizing: content-box;
+}
+
 h1,
 h2,
 h3,
